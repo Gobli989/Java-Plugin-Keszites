@@ -1,4 +1,3 @@
-/.git/
-/.idea/
-/out/
 TutorialPlugin.iml
+.idea
+out
