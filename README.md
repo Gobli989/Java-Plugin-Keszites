@@ -23,17 +23,17 @@ Lejátszási lista: [YouTube](https://www.youtube.com/playlist?list=PLQQLyEsOyJq
 
 ## Videók
 
-| Videó | Név |
-|--|--|
+| Videó | Név | Kód |
+|--|--|--|
 |[![1](https://img.youtube.com/vi/xfN4LKUe1Oo/mqdefault.jpg)](https://youtu.be/xfN4LKUe1Oo)| **Parancsok \| 1. rész \| Spigot/Bukkit plugin készítés \| 1.12.2**|
-|[![2](https://img.youtube.com/vi/Qvvt_B2cd3M/mqdefault.jpg)](https://youtu.be/Qvvt_B2cd3M)|**Listenerek \| 2. rész \| Spigot/Bukkit Plugin Készítés Tutorial \| 1.12.2**|
-|[![3](https://img.youtube.com/vi/18b96CkemP0/mqdefault.jpg)](https://youtu.be/18b96CkemP0)|**Több Érdekes Listener \| 3. rész \| Spigot/Bukkit Plugin Készítés Tutorial \| 1.12.2**|
-|[![4](https://img.youtube.com/vi/EKP6kahGeAI/mqdefault.jpg)](https://youtu.be/EKP6kahGeAI)|**Config Fájl Használata \| 4. rész \| Spigot/Bukkit Plugin Készítés Tutorial \| 1.12.2**|
-|[![5](https://img.youtube.com/vi/Wcex_2DmTFg/mqdefault.jpg)](https://youtu.be/Wcex_2DmTFg)|**Halloweeni Kidadás! \| 5. Rész \| Bukkit/Spigot Plugin Készítés Tutorial \| 1.12.2**|
-|[![6](https://img.youtube.com/vi/6A7z9qFGpzg/mqdefault.jpg)](https://youtu.be/6A7z9qFGpzg)|**Saját Tárgyak! 6. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**|
-|[![7](https://img.youtube.com/vi/VsZy739GEW4/mqdefault.jpg)](https://youtu.be/VsZy739GEW4)|**Saját Receptek 7. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**|
-|[![9](https://img.youtube.com/vi/MN2hZUxKTeE/mqdefault.jpg)](https://youtu.be/MN2hZUxKTeE)|**Kérdések és válaszok 9. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**|
-|[![10](https://img.youtube.com/vi/7pLXa6yQs58/mqdefault.jpg)](https://youtu.be/7pLXa6yQs58)|**Először Csatlakozás 10. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**|
-|[![12](https://img.youtube.com/vi/4BQ0a8SbNQs/mqdefault.jpg)](https://youtu.be/4BQ0a8SbNQs)|**Runnable -k használata \| 12. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2 ➡️ 1.15.2**|
-|[![13](https://img.youtube.com/vi/jtPm0Fubydc/mqdefault.jpg)](https://youtu.be/jtPm0Fubydc)|**Packetek azaz Csomagok \| 13. rész \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|
-|[![14](https://img.youtube.com/vi/bOvZYcl3Xhc/mqdefault.jpg)](https://youtu.be/bOvZYcl3Xhc)|**Ep 14 - Tüzijátékok \| Augusztus 20 \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|
+|[![2](https://img.youtube.com/vi/Qvvt_B2cd3M/mqdefault.jpg)](https://youtu.be/Qvvt_B2cd3M)|**Listenerek \| 2. rész \| Spigot/Bukkit Plugin Készítés Tutorial \| 1.12.2**| |
+|[![3](https://img.youtube.com/vi/18b96CkemP0/mqdefault.jpg)](https://youtu.be/18b96CkemP0)|**Több Érdekes Listener \| 3. rész \| Spigot/Bukkit Plugin Készítés Tutorial \| 1.12.2**| |
+|[![4](https://img.youtube.com/vi/EKP6kahGeAI/mqdefault.jpg)](https://youtu.be/EKP6kahGeAI)|**Config Fájl Használata \| 4. rész \| Spigot/Bukkit Plugin Készítés Tutorial \| 1.12.2**| |
+|[![5](https://img.youtube.com/vi/Wcex_2DmTFg/mqdefault.jpg)](https://youtu.be/Wcex_2DmTFg)|**Halloweeni Kidadás! \| 5. Rész \| Bukkit/Spigot Plugin Készítés Tutorial \| 1.12.2**| |
+|[![6](https://img.youtube.com/vi/6A7z9qFGpzg/mqdefault.jpg)](https://youtu.be/6A7z9qFGpzg)|**Saját Tárgyak! 6. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**| |
+|[![7](https://img.youtube.com/vi/VsZy739GEW4/mqdefault.jpg)](https://youtu.be/VsZy739GEW4)|**Saját Receptek 7. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**| |
+|[![9](https://img.youtube.com/vi/MN2hZUxKTeE/mqdefault.jpg)](https://youtu.be/MN2hZUxKTeE)|**Kérdések és válaszok 9. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**| |
+|[![10](https://img.youtube.com/vi/7pLXa6yQs58/mqdefault.jpg)](https://youtu.be/7pLXa6yQs58)|**Először Csatlakozás 10. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**|[Ep10_Csatlakozás.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep10_Csatlakoz%C3%A1s.java)|
+|[![12](https://img.youtube.com/vi/4BQ0a8SbNQs/mqdefault.jpg)](https://youtu.be/4BQ0a8SbNQs)|**Runnable -k használata \| 12. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2 ➡️ 1.15.2**|[Ep11_Egyedi_Chat.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep11_Egyedi_Chat.java)|
+|[![13](https://img.youtube.com/vi/jtPm0Fubydc/mqdefault.jpg)](https://youtu.be/jtPm0Fubydc)|**Packetek azaz Csomagok \| 13. rész \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|[Ep12_Runnablek.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep12_Runnablek.java)|
+|[![14](https://img.youtube.com/vi/bOvZYcl3Xhc/mqdefault.jpg)](https://youtu.be/bOvZYcl3Xhc)|**Ep 14 - Tüzijátékok \| Augusztus 20 \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|[Ep14_Tüzijátékok.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep14_T%C3%BCzij%C3%A1t%C3%A9kok.java)|
