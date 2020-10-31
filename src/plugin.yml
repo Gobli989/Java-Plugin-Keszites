@@ -1,0 +1,8 @@
+name: Tutorial
+version: 1.0.0
+main: me.gobli989.tutorial.MainClass
+api-version: 1.13
+
+commands:
+  teszt:
+    description: Teszt parancs
