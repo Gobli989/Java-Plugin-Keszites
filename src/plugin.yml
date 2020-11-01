@@ -4,5 +4,7 @@ main: me.gobli989.tutorial.MainClass
 api-version: 1.13
 
 commands:
-  teszt:
-    description: Teszt parancs
+  halloween:
+    description: Halloweeni effektek
+    aliases:
+      - h

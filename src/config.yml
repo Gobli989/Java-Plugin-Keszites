@@ -5,3 +5,6 @@
 egg: "Ne dobálj tojásokat!"
 throw:
   tojas: "Hehe"
+
+Pumpkins:
+  "w|x|y|z": "NORTH"
