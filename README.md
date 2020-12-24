@@ -21,6 +21,7 @@ Lejátszási lista: [YouTube](https://www.youtube.com/playlist?list=PLQQLyEsOyJq
 - [13. Packetek azaz Csomagok](https://youtu.be/jtPm0Fubydc)
 - [14. Tűzijátékok](https://youtu.be/bOvZYcl3Xhc)
 - [15. Halloween 2020](https://youtu.be/w8o1WcP0OR4)
+- [16. Karácsonyi Epizód](https://youtu.be/_Ga5exMpLGw)
 
 ## Videók
 
@@ -34,8 +35,9 @@ Lejátszási lista: [YouTube](https://www.youtube.com/playlist?list=PLQQLyEsOyJq
 |[![6](https://img.youtube.com/vi/6A7z9qFGpzg/mqdefault.jpg)](https://youtu.be/6A7z9qFGpzg)|**Saját Tárgyak! 6. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**| |
 |[![7](https://img.youtube.com/vi/VsZy739GEW4/mqdefault.jpg)](https://youtu.be/VsZy739GEW4)|**Saját Receptek 7. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**| |
 |[![9](https://img.youtube.com/vi/MN2hZUxKTeE/mqdefault.jpg)](https://youtu.be/MN2hZUxKTeE)|**Kérdések és válaszok 9. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**| |
-|[![10](https://img.youtube.com/vi/7pLXa6yQs58/mqdefault.jpg)](https://youtu.be/7pLXa6yQs58)|**Először Csatlakozás 10. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**|[Ep10_Csatlakozás.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep10_Csatlakoz%C3%A1s.java)|
-|[![12](https://img.youtube.com/vi/4BQ0a8SbNQs/mqdefault.jpg)](https://youtu.be/4BQ0a8SbNQs)|**Runnable -k használata \| 12. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2 ➡️ 1.15.2**|[Ep11_Egyedi_Chat.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep11_Egyedi_Chat.java)|
-|[![13](https://img.youtube.com/vi/jtPm0Fubydc/mqdefault.jpg)](https://youtu.be/jtPm0Fubydc)|**Packetek azaz Csomagok \| 13. rész \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|[Ep12_Runnablek.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep12_Runnablek.java)|
-|[![14](https://img.youtube.com/vi/bOvZYcl3Xhc/mqdefault.jpg)](https://youtu.be/bOvZYcl3Xhc)|**Ep 14 - Tüzijátékok \| Augusztus 20 \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|[Ep14_Tüzijátékok.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep14_T%C3%BCzij%C3%A1t%C3%A9kok.java)|
-|[![15](https://img.youtube.com/vi/w8o1WcP0OR4/mqdefault.jpg)](https://youtu.be/w8o1WcP0OR4)|**Ep 15 - Halloweeni epizód \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.3**|[Ep15_Halloween.java](https://github.com/Gobli989/Java-Plugin-Keszites/blob/master/src/me/gobli989/tutorial/Ep15_Halloween.java)|
+|[![10](https://img.youtube.com/vi/7pLXa6yQs58/mqdefault.jpg)](https://youtu.be/7pLXa6yQs58)|**Először Csatlakozás 10. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2**|[Ep10_Csatlakozás.java](src/me/gobli989/tutorial/Ep10_Csatlakoz%C3%A1s.java)|
+|[![12](https://img.youtube.com/vi/4BQ0a8SbNQs/mqdefault.jpg)](https://youtu.be/4BQ0a8SbNQs)|**Runnable -k használata \| 12. Rész \| Bukkit/Spigot Plugin Készítés \| 1.12.2 ➡️ 1.15.2**|[Ep11_Egyedi_Chat.java](src/me/gobli989/tutorial/Ep11_Egyedi_Chat.java)|
+|[![13](https://img.youtube.com/vi/jtPm0Fubydc/mqdefault.jpg)](https://youtu.be/jtPm0Fubydc)|**Packetek azaz Csomagok \| 13. rész \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|[Ep12_Runnablek.java](src/me/gobli989/tutorial/Ep12_Runnablek.java)|
+|[![14](https://img.youtube.com/vi/bOvZYcl3Xhc/mqdefault.jpg)](https://youtu.be/bOvZYcl3Xhc)|**Ep 14 - Tüzijátékok \| Augusztus 20 \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.1**|[Ep14_Tüzijátékok.java](src/me/gobli989/tutorial/Ep14_T%C3%BCzij%C3%A1t%C3%A9kok.java)|
+|[![15](https://img.youtube.com/vi/w8o1WcP0OR4/mqdefault.jpg)](https://youtu.be/w8o1WcP0OR4)|**Ep 15 - Halloweeni epizód \| Bukkit/Spigot Plugin Készítés \| 1.8.x ➡️ 1.16.3**|[Ep15_Halloween.java](src/me/gobli989/tutorial/Ep15_Halloween.java)|
+|[![16](https://i.imgur.com/87ojhqt.jpg)](https://youtu.be/_Ga5exMpLGw)|**Ep 16 - Karácsonyi Epizód \| Spigot Plugin Készítés \| 1.16.4**|[Ep16_Karacsony.java](src/me/gobli989/tutorial/Ep16_Karacsony.java)
