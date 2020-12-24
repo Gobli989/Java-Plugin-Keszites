@@ -12,7 +12,7 @@ Lejátszási lista: [YouTube](https://www.youtube.com/playlist?list=PLQQLyEsOyJq
 - [2. Listenerek](https://youtu.be/Qvvt_B2cd3M)
 - [3. Több Érdekes Listener](https://youtu.be/18b96CkemP0)
 - [4. Config Fájlok](https://youtu.be/EKP6kahGeAI)
-- [5. Halloweeni kiadás](https://youtu.be/Wcex_2DmTFg)
+- [5. Halloween 2019](https://youtu.be/Wcex_2DmTFg)
 - [6. Saját Tárgyak](https://youtu.be/6A7z9qFGpzg)
 - [7. Saját Receptek](https://youtu.be/VsZy739GEW4)
 - [9. Kérdések és Válaszok](https://youtu.be/MN2hZUxKTeE)
@@ -20,6 +20,7 @@ Lejátszási lista: [YouTube](https://www.youtube.com/playlist?list=PLQQLyEsOyJq
 - [12. Runnable-k Használata](https://youtu.be/4BQ0a8SbNQs)
 - [13. Packetek azaz Csomagok](https://youtu.be/jtPm0Fubydc)
 - [14. Tűzijátékok](https://youtu.be/bOvZYcl3Xhc)
+- [15. Halloween 2020](https://youtu.be/w8o1WcP0OR4)
 
 ## Videók
 

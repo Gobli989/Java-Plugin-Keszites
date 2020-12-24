@@ -12,11 +12,13 @@ public class MainClass extends JavaPlugin implements Listener {
 //        getServer().getPluginManager().registerEvents(new Ep12_Runnablek(), this);
 //        getServer().getPluginManager().registerEvents(new Ep13_Csomagok(), this);
 //        getServer().getPluginManager().registerEvents(new Ep14_Tüzijátékok(), this);
+//        getServer().getPluginManager().registerEvents(new Ep15_Halloween(), this);
 
-        getServer().getPluginManager().registerEvents(new Ep15_Halloween(), this);
-        getCommand("halloween").setExecutor(new Ep15_Halloween());
+        getServer().getPluginManager().registerEvents(new Ep16_Karacsony(), this);
+        Ep16_Karacsony.mikulasSapka();
 
-        Ep15_Halloween.start();
+//        getCommand("halloween").setExecutor(new Ep15_Halloween());
+//        Ep15_Halloween.start();
 
     }
 
