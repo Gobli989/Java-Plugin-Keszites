@@ -1,7 +1,7 @@
 package me.gobli989.tutorial;
 
-import net.minecraft.server.v1_16_R2.PacketPlayOutUnloadChunk;
-import org.bukkit.craftbukkit.v1_16_R2.entity.CraftPlayer;
+import net.minecraft.server.v1_16_R3.PacketPlayOutUnloadChunk;
+import org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerCommandPreprocessEvent;
